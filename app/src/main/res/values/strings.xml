@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">粘性布局Demo</string>
+    <string name="app_name">CoordinateLayoutDemo</string>
     <string name="action_settings">Settings</string>
 </resources>
